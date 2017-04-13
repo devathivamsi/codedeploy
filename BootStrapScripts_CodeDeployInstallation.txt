@@ -2,6 +2,7 @@
 Boot Strap for Apache Installtion on Amz Linux
 ----------------------------------------------
 1) When server is booted run the following commands as root.
+!#bin/bash
 sudo su
 yum update -y
 yum install httpd ruby wget aws-cli -y
